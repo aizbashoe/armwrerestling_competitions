@@ -303,3 +303,27 @@ For questions or issues, refer to:
 **License**: Private/Internal Use
 
 
+**Images**:
+1) Start Competition. You can enter armwrestler's information manually or load it via CSV file
+
+![Start Competition](img/Start-Competition.png)
+
+2) Round 1. Pairs are generated randomly. All Round 1 winners are going to Top section, all losers are going to bottom section. If armwrestler loses twice, it eliminates from competition
+
+![Round 1](img/Round-1.png)
+
+3) Round 4. There are only 2 armwrestler stay in Top section. Winner goes to Final direcly. Loser goes to Semifinal where it will be fight with winner of Bottom section
+
+![Round 4](img/Round-4.png)
+
+4) Semifinal
+
+![Start Competition](img/semifinal.png)
+
+5) Final
+
+![Start Competition](img/final.png)
+
+6) Final results of competitions. User can check all rounds via tabs. There is competition table where all armwrestler are displayed based on rank. It also contains count of win and lose fights.
+
+![Final Results](img/final-results.png)
